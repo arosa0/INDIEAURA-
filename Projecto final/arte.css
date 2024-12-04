@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+}
+
+.nombres {
+    color: white;
+}
+
+.center {
+    color: white;
+    text-align: center;
+}
+
+.artes {
+
+    text-align: center;
+}
+
+.artess {
+    text-align: left;
+}
